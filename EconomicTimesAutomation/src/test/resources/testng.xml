@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://beust.com/testng/testng-1.0.dtd" >
+<suite name="EconomicTimes test run">
+  <test name="ET Test">
+    <classes>
+      <class name="automation.suite.EconomicTimesTest"/>
+    </classes>
+  </test>
+</suite>
